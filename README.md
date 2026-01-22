@@ -103,6 +103,10 @@ Shows the number of movies released in different languages.
 
 •	Several movies with average ratings generate very high revenue, while highly rated movies sometimes earn less.
 
+# Screenshot
+
+![dashboard preview](https://github.com/prasadmykoottala-arch/MovieDatasetrepo/blob/main/Screenshot%202026-01-22%20140936.png)
+
 # Files Included
 
 Preprocessing 1.pbix 
