@@ -51,16 +51,16 @@ The Excel file was imported into Power BI and opened in Power Query Editor. The 
 
 After preprocessing, the cleaned data was loaded into Power BI
 # Step 2
-Data Modelling and DAX in Power BI
+# Data Modelling and DAX in Power BI
 
 •	DAX measures were created to calculate total movies count, total revenue, and average rating. Numeric formatting was adjusted to avoid unnecessary rounding, and currency formatting was applied where required.
 
 # Step 3
-Visualization in Power BI
+# Visualization in Power BI
 
 •	Visuals were designed without scrollbars. Top N filters were applied to show only the most relevant values. Consistent colour themes and meaningful titles were used to improve readability and dashboard aesthetics.
 
-Summary of Power BI Visuals
+# Summary of Power BI Visuals
 
 # Total Movies Count Card
 Displays the total number of movies in the dataset.
