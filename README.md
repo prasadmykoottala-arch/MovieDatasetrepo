@@ -79,6 +79,29 @@ Illustrates trends in movie releases across different years.
 # Language-wise Movie Distribution Stacked Column Chart
 Shows the number of movies released in different languages.
 
+# Key Insights
+
+•	Drama has the highest number of movies, indicating it is the most produced genre.
+
+•	Action/Adventure dominates in terms of total revenue ($8.4bn), even with fewer movies compared to Drama.
+
+•	English-language movies account for nearly 99% of total gross revenue, making English the dominant commercial language in global cinema.
+
+•	Other languages such as Spanish, French, and Mandarin contribute less than 1% combined.
+
+•	Movie releases remained relatively low and stable until the mid-1900s.
+
+•	A sharp growth in movie production is visible after 1990, peaking in the early 2000s.
+
+•	The USA dominates movie production with 3.6K movies, far exceeding other countries.
+
+•	Avatar is the highest-grossing movie ($0.76bn).
+
+•	Titanic and Jurassic Park closely follow, each crossing $0.65bn.
+
+•	The scatter plot shows no strong linear relationship between IMDb score and gross collection.
+
+•	Several movies with average ratings generate very high revenue, while highly rated movies sometimes earn less.
 
 # Final Outcome
 The raw Excel data was successfully transformed into clean and structured data. Meaningful insights were generated using Power BI, and a clear, well-structured dashboard was created. This project demonstrates practical knowledge of data preprocessing, Power Query, Power BI visualization, and analytical thinking.
