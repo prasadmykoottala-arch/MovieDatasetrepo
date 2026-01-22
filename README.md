@@ -103,5 +103,19 @@ Shows the number of movies released in different languages.
 
 •	Several movies with average ratings generate very high revenue, while highly rated movies sometimes earn less.
 
+# Files Included
+
+Preprocessing 1.pbix 
+
+README.md
+
+Visualisation Final.pbix
+
+# How to use 
+
+Open " Preprocessing 1.pbix " to view the cleaned data.
+
+Open "Visualisation Final.pbix" in Power BI Desktop to explore the visuals.
+
 # Final Outcome
 The raw Excel data was successfully transformed into clean and structured data. Meaningful insights were generated using Power BI, and a clear, well-structured dashboard was created. This project demonstrates practical knowledge of data preprocessing, Power Query, Power BI visualization, and analytical thinking.
